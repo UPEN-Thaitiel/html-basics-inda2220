@@ -29,10 +29,15 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 
 ## Evaluation criteria
 
+
+
 |  **Percentage**       |**Directory**       | **Criteria**                                   | **YES**       | **NO**        | **Observations** | 
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
-|  **20%**  |**Heading Element**  | Matches the png image?   |    |          |       | 
-| **20%**  |**Paragraph Element** | Matches the png image?               |        |   |    | 
-| **20%**  |**Void Element**      | Matches the png image?       |        | |  | 
-| **40%**  |**Movie Ranking** | Matches the png image?         |    |    | | 
+|  **20%**  |**Heading Element**  | Matches the png image?   |  X |          |      | 
+| **20%**  |**Paragraph Element** | Matches the png image?  |     X   |   |    | 
+| **20%**  |**Void Element**      | Matches the png image?       |  X      | |  | 
+| **40%**  |**Movie Ranking** | Matches the png image?         |  X  |    | Good job catching the void! | 
+
+
+## Your grade is 100/100 Keep up the good work Julio!
 
